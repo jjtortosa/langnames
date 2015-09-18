@@ -1,7 +1,7 @@
 {
 	"name": "langnames",
 	"description": "Get language names in a given language",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": ["util", "functional", "server", "client", "browser", "language"],
 	"author": {
 	  "name": "Juanjo Tortosa",
