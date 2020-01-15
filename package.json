@@ -1,7 +1,7 @@
 {
 	"name": "langnames",
 	"description": "Get language names in a given language",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"keywords": ["util", "functional", "server", "client", "browser", "language"],
 	"author": {
 	  "name": "Juanjo Tortosa",
@@ -9,9 +9,9 @@
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "https://github.com/eucalipthus/cmjs.git"
+	  "url": "https://github.com/jjtortosa/langnames.git"
 	},
-	"homepage": "https://github.com/jjtortos/langnames",
+	"homepage": "https://github.com/jjtortosa/langnames",
 	"main": "./main.js",
 	"contributors": [],
 	"dependencies": {}
